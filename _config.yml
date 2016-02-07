@@ -11,7 +11,7 @@ email: mail@constellates.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple blog to go accompany... 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.constellates.com" # the base hostname & protocol for your site
+url: "http://blog.constellates.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  constellates
 permalink: none
