@@ -6,7 +6,7 @@ date:   2016-01-28 20:33:59 -0800
 categories: wood-working
 ---
 
-I've seen this saw kit pop up on a variety of woodworking sites and forums and always found it very beautiful. So for christmas I decide to pull the trigger and buy it for myself as a gift.
+I've seen this saw kit pop up on a variety of woodworking sites and forums and always found it very beautiful. So for christmas I decided to pull the trigger and buy it for myself as a gift.
 
 Prior to building the Gramercy Tool's bow saw I had recently finished my first acoustic guitar. This saw would have saved me a lot of frustration while cutting the various curves a guitar requires. The top and back plates need to be cut close to their final shape before glueing them to the body. The curved transition from the base of the heel to the neck needs to be sawn through about three inch thick stock. And headstocks can contain a variety of curves based on the design. These are some examples of where I thought the twelve inch long blade and extra tension could excel over the coping saw.
 
@@ -255,10 +255,12 @@ I found the easiest way to attach the string was to put the saw together with a 
 
 I wrapped the line around four times and tied another knot on the same side. This left and even four strands on each side of the saw. All that was left was to slip in the toggle, tighten and saw away.
 
-## A note on tensioning
+## Final Thoughts
 
 ![3]({{ site.url }}/assets/gramercy_bow_saw/DSC_0003.jpg)
 
+I tested out the saw with some random curves on a piece of maple. Although my technique could definitely use some work, the saw performed very well. The longer stroke provided by the 12" blade allows you to negotiate a fair amount of a curve in a single stroke.
+
 ![83]({{ site.url }}/assets/gramercy_bow_saw/DSC_0083.jpg)
 
-I learned the hard way about over tensioning this saw and it wasn't a bad thing to learn first hand. As I was cutting, the saw was doing it's thing and working well, but every turn of the toggle improved the responsiveness slightly. So I found my self periodically going tighter and tighter until I heard a pop and all of a sudden I had a single handle in my hand instead of a saw. The good news in this is that the point of failure in two overtensioning incidents is the blade itself. It may be difficult to see, but in the above picture the pin has snapped away on the darker blade. As I learn to respect this saw's limits I hope I don't spend a ton of money on blades but it is comforting to know that I'm probably not going to snap a handle that has hours and hours of work in it.
+Lastly, I learned the hard way about over tensioning this saw and it wasn't a bad thing to learn first hand. As I was cutting, the saw was doing it's thing and working well, but every turn of the toggle improved the responsiveness slightly. So I found my self periodically going tighter and tighter until I heard a pop and all of a sudden I had a single handle in my hand instead of a saw. The good news in this is that the point of failure in two overtensioning incidents is the blade itself. It may be difficult to see, but in the above picture the pin has snapped away on the darker blade. As I learn to respect this saw's limits I hope I don't spend a ton of money on blades but it is comforting to know that I'm probably not going to snap a handle that has hours and hours of work in it.
