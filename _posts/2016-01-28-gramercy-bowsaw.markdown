@@ -257,6 +257,8 @@ I wrapped the line around four times and tied another knot on the same side. Thi
 
 ## A note on tensioning
 
+![3]({{ site.url }}/assets/gramercy_bow_saw/DSC_0003.jpg)
+
 ![83]({{ site.url }}/assets/gramercy_bow_saw/DSC_0083.jpg)
 
 I learned the hard way about over tensioning this saw and it wasn't a bad thing to learn first hand. As I was cutting, the saw was doing it's thing and working well, but every turn of the toggle improved the responsiveness slightly. So I found my self periodically going tighter and tighter until I heard a pop and all of a sudden I had a single handle in my hand instead of a saw. The good news in this is that the point of failure in two overtensioning incidents is the blade itself. It may be difficult to see, but in the above picture the pin has snapped away on the darker blade. As I learn to respect this saw's limits I hope I don't spend a ton of money on blades but it is comforting to know that I'm probably not going to snap a handle that has hours and hours of work in it.
