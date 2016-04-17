@@ -97,69 +97,51 @@
 /**
  * Site footer
  */
-.site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+
+.nav-bar {
+    font-family: Roboto;
+    font-weight: lighter;
+    position: fixed;
+    bottom: 0px;
+    height: 60px;
+    width: 100%;
+    background: rgba(255,255,255,0.7);
+    padding-top: 10px;
+    box-sizing: border-box;
 }
 
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+.nav-bar div:first-child {
+  position: fixed;
+  right: 50%;
+  margin-right: 25px;
 }
 
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
+.nav-bar div:last-child {
+  position: fixed;
+  left: 50%;
+  margin-left: 25px;
 }
 
-.footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
+.nav-bar div a {
+    margin: 0px 10px;
+    color: #888;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 30px;
 }
 
-.footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
+.menu-link {
+    height: 30px;
+    width: 30px;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    margin-left: -15px;
+    background: $lightBlue;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all .5s ease-in;
 }
 
 
