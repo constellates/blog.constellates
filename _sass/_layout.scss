@@ -117,10 +117,16 @@
   margin-right: 25px;
 }
 
-.nav-bar div:last-child {
+.nav-bar div:nth-child(2) {
   position: fixed;
   left: 50%;
   margin-left: 25px;
+}
+
+.nav-bar div:last-child {
+  position: fixed;
+  left: 50%;
+  margin-left: 75px;
 }
 
 .nav-bar div a {
