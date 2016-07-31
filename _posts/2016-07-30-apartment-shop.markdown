@@ -26,7 +26,7 @@ Here are most of my marking and measuring tools aside from some other basics lik
 
 ![altText]({{ site.url }}/assets/apartment_shop/DSC_0062.jpg)
 
-My first set of chisels were this harbor freight set. I built a little box to hold them and a few other tools. I finally upgraded and got the 4 pack of ashley iles bevel edge chisels. They're way better, but the harbor freight chisels were able to accomplish a ton over the year or two that I used them. They were well worth the $8 investment. Also you can see a stack of scrapers, a burnisher, a scraper holder, a modern stanley #151 spokeshave and a wooden spokeshave I'm finishing up. It uses an affordable blade meant for woodriver's shave.
+My first set of chisels was this harbor freight set. I built a little box to hold them and a few other tools. I finally upgraded and got the 4 pack of ashley iles bevel edge chisels. They're way better, but the harbor freight chisels were able to accomplish a ton over the year or two that I used them. They were well worth the $8 investment. Also you can see a stack of scrapers, a burnisher, a scraper holder, a modern stanley #151 spokeshave and a wooden spokeshave I'm finishing up. It uses an affordable blade meant for woodriver's shave.
 
 ![altText]({{ site.url }}/assets/apartment_shop/DSC_0065.jpg)
 
@@ -42,7 +42,7 @@ I get a closet to keep the rest of my tools, glues, finishes, lumber, clamps and
 
 ![altText]({{ site.url }}/assets/apartment_shop/DSC_0069.jpg)
 
-I've been getting into acoustic luthiery (guitar are 2 & 3 in the works) and this is my bending iron. I got it second hand but I believe it's from lmii. I also forgot this wheel gauge when I shot the marking tools so I threw it in here for good measure.
+I've been getting into acoustic luthiery (guitars 2 & 3 are in the works) and this is my bending iron. I got it second hand but I believe it's from lmii. I also forgot this wheel gauge when I shot the marking tools so I threw it in here for good measure.
 
 ![altText]({{ site.url }}/assets/apartment_shop/DSC_0073.jpg)
 
