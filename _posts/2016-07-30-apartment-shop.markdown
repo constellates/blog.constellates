@@ -2,7 +2,7 @@
 layout: post
 title:  "My Apartment Shop"
 image: /assets/apartment_shop/DSC_0053_title.jpg
-date:   2016-06-24 05:33:59 -0800
+date:   2016-07-30 05:33:59 -0800
 categories: wood-working
 ---
 
